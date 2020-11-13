@@ -6,7 +6,7 @@ logo: 'assets/images/logo1.png'
 favicon: 'assets/images/logo.png'
 baseurl: /5shopping
 google_analytics: 'G-M0MR1RDMWY'
-disqus: 'demowebsite'
+disqus: 'https-je20148-github-io-5shopping'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
